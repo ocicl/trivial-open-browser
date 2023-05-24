@@ -1,0 +1,9 @@
+* trivial-open-browser
+
+Open a browser window.  From Common Lisp.
+
+|---------+----------------------------------------------------------|
+| source  | git:https://github.com/eudoxia0/trivial-open-browser.git |
+| commit  | 7ab4743                                                  |
+| systems | trivial-open-browser                                     |
+|---------+----------------------------------------------------------|
